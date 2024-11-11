@@ -1,0 +1,1 @@
+In this repository I have gathered 3 notebooks related to Vega-Altair, a common used visualization library for Python. The main goal of this files is to serve as an introduction to this tool and its use.
